@@ -5,3 +5,21 @@ message controller (line 10){
 changes const conversation to let conversation
 
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+tailwind
+react icons 
+tailwind glassmorphism
+daisy ui
