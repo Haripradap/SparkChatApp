@@ -23,3 +23,5 @@ tailwind
 react icons 
 tailwind glassmorphism
 daisy ui
+
+react hot toast
